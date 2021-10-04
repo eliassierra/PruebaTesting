@@ -1,0 +1,14 @@
+co/com/choucair/certification/qa/task/OpenThePage.java
+ co.com.choucair.certification.qa.task.OpenThePage
+co/com/choucair/certification/qa/userinterface/OpenThePageUI.java
+ co.com.choucair.certification.qa.userinterface.OpenThePageUI
+co/com/choucair/certification/qa/userinterface/HomePage.java
+ co.com.choucair.certification.qa.userinterface.HomePage
+co/com/choucair/certification/qa/model/User.java
+ co.com.choucair.certification.qa.model.User
+co/com/choucair/certification/qa/task/IngresarCorreo.java
+ co.com.choucair.certification.qa.task.IngresarCorreo
+co/com/choucair/certification/qa/task/DiligenciarInformacion.java
+ co.com.choucair.certification.qa.task.DiligenciarInformacion
+co/com/choucair/certification/qa/userinterface/FormPage.java
+ co.com.choucair.certification.qa.userinterface.FormPage

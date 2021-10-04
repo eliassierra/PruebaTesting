@@ -1,0 +1,4 @@
+co/com/choucair/certification/qa/runners/AutomationPracticeRunner.java
+ co.com.choucair.certification.qa.runners.AutomationPracticeRunner
+co/com/choucair/certification/qa/stepdefinitions/AutomationPracticeStepdefinitions.java
+ co.com.choucair.certification.qa.stepdefinitions.AutomationPracticeStepdefinitions
